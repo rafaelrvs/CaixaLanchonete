@@ -13,3 +13,18 @@ C:\Users\Rafal\Documents\Projetos\lanchonetCaixa\CaixaLanchonete\CaixaLanchonete
 C:\Users\Rafal\Documents\Projetos\lanchonetCaixa\CaixaLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.pdb
 C:\Users\Rafal\Documents\Projetos\lanchonetCaixa\CaixaLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.genruntimeconfig.cache
 C:\Users\Rafal\Documents\Projetos\lanchonetCaixa\CaixaLanchonete\CaixaLanchonete\obj\Debug\net6.0\ref\CaixaLanchonete.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\bin\Debug\net6.0\CaixaLanchonete.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\bin\Debug\net6.0\CaixaLanchonete.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\bin\Debug\net6.0\CaixaLanchonete.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\bin\Debug\net6.0\CaixaLanchonete.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\bin\Debug\net6.0\CaixaLanchonete.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\refint\CaixaLanchonete.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\CaixaLanchonete.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CaixaDeLanchonete\CaixaLanchonete\obj\Debug\net6.0\ref\CaixaLanchonete.dll
